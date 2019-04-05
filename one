@@ -1,3 +1,17 @@
+function exampleExercise(value){
+  // !!! This is an example exercise, we will show you how to complete the following exercises here. 
+  // !!! There is NO need to write any code for this exercise. 
+  // !!! This exercise is ALREADY complete, Use this as reference to complete the others.
+  
+  // In this exercise, you will be given a variable, it will be called: value
+  // On the next line create a variable called 'notEqualTo' and using a comparison operator, check to see if value is not equal to 'green'.
+  // Assign the results of that to 'notEqualTo'
+  let notEqualTo = value !== 'green';
+  
+  // Please write your answer in the line above.
+  return notEqualTo; 
+}
+
 function exerciseOne(value){
   // In this exercise, you will be given a variable, it will be called: value
   // On the next line create a variable called 'greaterThan' and using a comparison operator, check to see if value is greater than 5.
