@@ -1,0 +1,9 @@
+function exerciseOne(value){
+  // In this exercise, you will be given a variable, it will be called: value
+  // On the next line create a variable called 'greaterThan' and using a comparison operator, check to see if value is greater than 5.
+  // Assign the results of that to 'greaterThan'
+  
+  
+  // Please write your answer in the line above.
+  return greaterThan;
+}
